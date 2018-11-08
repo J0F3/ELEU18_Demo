@@ -1,0 +1,7 @@
+{
+    "editor.renderWhitespace": "boundary",
+    "files.trimTrailingWhitespace": true,
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true
+}
